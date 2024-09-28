@@ -56,8 +56,16 @@ The Kanban board is designed to be responsive, ensuring it looks great on all de
 
 ## 📸 **Screenshots**
 
-- *Add any relevant screenshots of your project here to showcase the UI.*
+Here are some screenshots of the Kanban Board UI:
 
----
+### Screenshot 1
+![Kanban Board Display](https://github.com/prakritiojha11/QuickSell_frontEndTask/blob/0ed28ad1619b03b94932820d9a29c9a626d67486/basedondisplay.png?raw=true)
+
+### Screenshot 2
+![Kanban Board by Priority](https://github.com/prakritiojha11/QuickSell_frontEndTask/blob/0ed28ad1619b03b94932820d9a29c9a626d67486/basedonpriority.png?raw=true)
+
+### Screenshot 3
+![Kanban Board](https://github.com/prakritiojha11/QuickSell_frontEndTask/blob/<commit-hash>/screenshot3.png?raw=true)
+
 
 
