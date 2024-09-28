@@ -1,7 +1,7 @@
 
 # 🚀 Lead Frontend Assignment
 
-### **Build for QuickSell Assignment by Prakriti 🦄✨**
+### **Build for QuickSell Assignment by Prakriti ✨**
 
 ---
 
