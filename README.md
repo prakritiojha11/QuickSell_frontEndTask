@@ -72,5 +72,12 @@ Here are some screenshots of the Kanban Board UI:
 ### Screenshot 3
 ![Kanban Board](https://github.com/prakritiojha11/QuickSell_frontEndTask/blob/<commit-hash>/screenshot3.png?raw=true)
 
+## 🌐 Hosted Page
+
+You can view the live version of the Kanban Board application at the following link:
+
+**[Live Demo of Kanban Board](https://prakritiojha11.github.io/QUICKSELL_ASSIGNMENT-MAIN
+)**
+
 
 
