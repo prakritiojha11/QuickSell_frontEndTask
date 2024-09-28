@@ -76,7 +76,8 @@ Here are some screenshots of the Kanban Board UI:
 
 You can view the live version of the Kanban Board application at the following link:
 
-**[Live Demo of Kanban Board](https://github.com/prakritiojha11/QuickSell_frontEndTask
+**[Live Demo of Kanban Board](https://prakritiojha11.github.io/QuickSell_frontEndTask
+
 )**
 
 
