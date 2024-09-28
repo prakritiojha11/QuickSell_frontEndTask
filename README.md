@@ -1,44 +1,63 @@
-# Lead Frontend assignment
 
-# **Use React JS for the Assignment**
+# 🚀 Lead Frontend Assignment
+
+### **Built with React JS**
+
+---
+
+### **🛠️ API Used**
+- [QuickSell API](https://api.quicksell.co/v1/internal/frontend-assignment)
+
+---
+
+## 📝 **Assignment Overview**
+
+This project is a **Kanban board** application where users can group and sort tickets dynamically based on the provided data. The Kanban board is designed to be **responsive**, **visually appealing**, and offers a user-friendly interface. The app interacts with the **QuickSell API** to fetch ticket information and enables the user to organize tasks in multiple ways.
+
+---
+
+## ⚡ **Core Features**
+
+### 1. **Dynamic Grouping** 🗂️
+The application allows the user to group tickets in **three distinct ways**:
+- **By Status**: Group tickets based on their current status (e.g., To-Do, In Progress, Done).
+- **By User**: Arrange tickets according to the assigned user.
+- **By Priority**: Group tickets based on their priority level.
+
+### 2. **Sorting Options** 🔄
+Users can sort the displayed tickets in **two ways**:
+- **By Priority**: Arrange tickets in descending order of priority (from Urgent to No Priority).
+- **By Title**: Sort tickets alphabetically by title.
+
+### 3. **Priority Levels** 🔥
+The API provides priority levels for the tickets, which are categorized as follows:
+
+| Priority Level | Description   |
+|----------------|---------------|
+| 4              | 🔴 **Urgent** |
+| 3              | 🟠 **High**   |
+| 2              | 🟡 **Medium** |
+| 1              | 🟢 **Low**    |
+| 0              | ⚪ **No Priority** |
+
+---
+
+## 💾 **State Persistence**
+
+The application saves the user's view state (e.g., grouping and sorting preferences) so that even after a page reload, the user's settings are preserved.
+
+---
+
+## 🎨 **Responsive & Visually Appealing Design**
+
+The Kanban board is designed to be responsive, ensuring it looks great on all devices, and is implemented with a modern, clean interface inspired by the provided screenshots.
+
+---
+
+## 📸 **Screenshots**
+
+- *Add any relevant screenshots of your project here to showcase the UI.*
+
+---
 
 
-
-
-Api Used :  https://api.quicksell.co/v1/internal/frontend-assignment 
-When a user clicks the "display" button and selects a grouping option, the Kanban board should dynamically adjust to reflect the user's choice.
-
-The application should offer three distinct ways to group the data:
-
-1. **By Status**: Group tickets based on their current status.
-2. **By User**: Arrange tickets according to the assigned user.
-3. **By Priority**: Group tickets based on their priority level.
-
-Users should also be able to sort the displayed tickets in two ways:
-
-1. **Priority**: Arrange tickets in descending order of priority.
-2. **Title**: Sort tickets in ascending order based on their title.
-
-The Kanban board should be responsive and visually appealing, with a design similar to the provided screenshots. 
-
-**The priority levels for the tickets are as follows:**
-
-- Urgent (Priority level 4)
-- High (Priority level 3)
-- Medium (Priority level 2)
-- Low (Priority level 1)
-- No priority (Priority level 0)
-
-**Priority levels: (This values you will receive in the api)**
-
-4 - Urgent
-
-3 - High
-
-2 - Medium
-
-1 - Low
-
-0 - No priority
-
-Additionally, the application should save the user's view state even after page reload.
