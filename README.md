@@ -1,6 +1,11 @@
 
 # 🚀 Lead Frontend Assignment
 
+### **Build for QuickSell Assignment by Prakriti 🦄✨**
+
+---
+
+
 ### **Built with React JS**
 
 ---
